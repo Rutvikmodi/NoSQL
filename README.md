@@ -16,7 +16,7 @@
         Source code - imgCounter.java   
 
 <h1>
-        Question 4: Here the output form is in the format "<year-month,number of requests,Download size>"
+        Question 4: Here the output form is in the format "{year-month,number of requests,Download size}"
 </h1>
         
         Input file - Input_web_access_log.txt
